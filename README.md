@@ -3,7 +3,7 @@
 # Aplicación Streamlit
 
 ## Descripción general del proyecto
-Esta aplicación es una interfaz interactiva construida con Streamlit que integra diversas funcionalidades avanzadas relacionadas con el procesamiento de lenguaje natural (NLP), generación de imágenes, y noticia financieras. Está diseñada para ayudar a los usuarios a explorar y generar contenido de manera eficiente y amigable.
+Esta aplicación es una interfaz interactiva construida con Streamlit que integra diversas funcionalidades avanzadas relacionadas con el procesamiento de lenguaje natural (NLP), generación de imágenes, y noticias financieras. Está diseñada para ayudar a los usuarios a explorar y generar contenido de manera eficiente y amigable.
 
 ## Características principales
 - **Generación de Noticias Financieras:** Utiliza técnicas de NLP para crear noticias financieras personalizadas basadas en datos de mercado.
@@ -16,8 +16,8 @@ Esta aplicación es una interfaz interactiva construida con Streamlit que integr
 - Python 3.7 o superior
 - Pip (Gestor de paquetes de Python)
 - Biblioteca Streamlit
-- Biblioteca para la gestión de datos de NLP (como `transformers` o `spaCy`)
-- Biblioteca para generación de imágenes (como `PIL` o `OpenCV`)
+- Biblioteca para la gestión de datos de NLP.
+- Biblioteca para generación de imágenes.
 
 ## Instrucciones de instalación
 1. Clonar el repositorio:
